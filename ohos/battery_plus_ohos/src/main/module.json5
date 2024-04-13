@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "battery_plus_ohos",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
