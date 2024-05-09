@@ -1,7 +1,7 @@
 name: battery_plus_ohos
 description: Flutter plugin for accessing information about the battery state(full, charging, discharging) on OpenHarmony.
 repository: https://github.com/harmonycandies/battery_plus_ohos
-version: 0.0.2
+version: 0.0.3
 topics:
   - battery
   - battery-plus
